@@ -10,16 +10,6 @@ Python · C · Go · JavaScript · SQL · Docker · Linux · Git
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
 
 ### Skills
 
@@ -33,9 +23,9 @@ Python · C · Go · JavaScript · SQL · Docker · Linux · Git
 ### Contato
 
 <div>
-  <a href="mailto:SEUEMAIL"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:contatocaio3@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/caio-torquato"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Synaxis"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ---
