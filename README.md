@@ -1,16 +1,45 @@
-## Hi there 👋
+## Caio Torquato | Software Developer
 
-<!--
-**Synaxis/Synaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em Ciência da Computação com foco em backend, automação e desenvolvimento de sistemas eficientes. Experiência prática com múltiplas linguagens e ferramentas modernas, buscando sempre código simples, performático e escalável.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+Python · C · Go · JavaScript · SQL · Docker · Linux · Git
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### Skills
+
+- Backend development → APIs, automação, scripts  
+- Systems → lógica, performance, baixo nível  
+- Tools → Git, Docker, CLI, Linux  
+- Problem solving → foco em soluções simples e diretas  
+
+---
+
+### Contato
+
+<div>
+  <a href="mailto:SEUEMAIL"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+---
+
+### Sobre
+
+Construo projetos práticos, pequenos e funcionais para resolver problemas reais. Interesse em backend, automação e desenvolvimento de sistemas simples e eficientes.
